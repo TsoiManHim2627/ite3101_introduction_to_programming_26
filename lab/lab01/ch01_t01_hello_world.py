@@ -1,2 +1,1 @@
-print("123gweg")
-
+print("hello world")
