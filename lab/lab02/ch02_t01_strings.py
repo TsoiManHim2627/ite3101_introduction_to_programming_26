@@ -1,5 +1,5 @@
 # set the variable brian on line 3!
-Brian = "Hello life!"
+brian = "Hello life!"
 Name = "Ryan"
 Age = "19"
 Food = "cheese"
