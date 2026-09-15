@@ -1,10 +1,10 @@
 # set the variable brian on line 3!
 Brian = "Hello life!"
-name = "Ryan"
-age = "19"
-food = "cheese"
+Name = "Ryan"
+Age = "19"
+Food = "cheese"
 
-print(brian)
-print(name)
-print(age)
-print(food)
+print(Brian)
+print(Name)
+print(Age)
+print(Food)
