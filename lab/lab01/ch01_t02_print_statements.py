@@ -1,2 +1,2 @@
-print "hello" #python2
+print "hello"
 print("one two three")
