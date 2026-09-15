@@ -1,2 +1,2 @@
 print "hello"
-print("123124")
+print("one two three")
