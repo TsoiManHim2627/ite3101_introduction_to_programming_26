@@ -12,5 +12,6 @@ So if you wanted "Y", you could just type
 """
 fifth_letter = "PYTHON"[5]
 
-c="cats"
+c="cats"[0]
+n="Ryan"
 print(fifth_letter)
