@@ -1,2 +1,2 @@
-print "hello world"
-print ("123124")
+print "hello 123"
+print("123124")
