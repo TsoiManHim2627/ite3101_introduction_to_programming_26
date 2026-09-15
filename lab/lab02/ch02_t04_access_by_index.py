@@ -12,4 +12,5 @@ So if you wanted "Y", you could just type
 """
 fifth_letter = "PYTHON"[5]
 
+
 print(fifth_letter)
