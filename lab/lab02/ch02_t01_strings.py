@@ -5,6 +5,6 @@ age = "19"
 food = "cheese"
 
 print(brian)
-print(Name)
-print(Age)
-print(Food)
+print(name)
+print(age)
+print(food)
