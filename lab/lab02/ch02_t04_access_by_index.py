@@ -10,7 +10,7 @@ numbered 0 to 5, as shown below:
 So if you wanted "Y", you could just type
 "PYTHON"[1] (always start counting from 0!)
 """
-fifth_letter = "MONTY"[2]
+fifth_letter = "MONTY"[4]
 
 c="cats"[0]
 n="Ryan"[3]
