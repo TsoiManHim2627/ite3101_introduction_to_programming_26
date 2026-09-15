@@ -2,4 +2,5 @@ from datetime import datetime
 
 now = datetime.now()
 date= (print ('%02d/%02d/%04d' % (now.month, now.day, now.year)))
+time
 print  ('%02d:%02d:%02d' % (now.hour, now.minute, now.second))
