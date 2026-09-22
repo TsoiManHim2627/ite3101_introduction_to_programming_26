@@ -1,6 +1,6 @@
 bool_one = 2**3 == 108%100 or 'cleese'=='king Arthur'
 
-bool_two = 
+bool_two = True or False
 
 bool_three = None
 
