@@ -15,7 +15,7 @@ bool_four = None
 # Make me true!
 bool_five = None
 
-bool_two 
+bool_two = None False
 bool_three == 
 bool_four != 
 bool_five == 
