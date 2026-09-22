@@ -16,6 +16,6 @@ bool_four = None
 bool_five = None
 
 bool_two != 1<2
-bool_three == None
+bool_three == 5>3
 bool_four != None
 bool_five ==None
