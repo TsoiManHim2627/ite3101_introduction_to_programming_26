@@ -17,4 +17,4 @@ bool_five = None
 
 bool_two != None
 bool_three == None
-bool_
+bool_four 
