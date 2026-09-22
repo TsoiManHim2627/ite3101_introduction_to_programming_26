@@ -1,4 +1,4 @@
-bool_one = 
+bool_one = 2**3 == 108%100 or 'cleese'==
 
 bool_two = None
 
