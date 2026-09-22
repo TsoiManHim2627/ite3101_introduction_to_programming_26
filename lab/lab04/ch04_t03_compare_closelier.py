@@ -19,4 +19,5 @@ bool_five = None
 bool_one = (20-10)>15
 bool_two = (10+17)==3**16
 bool_three = 1**2<=-1
-bool_four = 40*4>=-
+bool_four = 40*4>=-4
+bool_five = 100 !=10**2
