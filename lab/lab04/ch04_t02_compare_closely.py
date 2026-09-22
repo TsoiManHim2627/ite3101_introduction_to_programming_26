@@ -17,4 +17,5 @@ bool_five = None
 
 bool_one = 17<328 True
 bool_two = 100==(2*50) True
-bool_three = 19<=19 
+bool_three = 19<=19 True
+bool_four = 
