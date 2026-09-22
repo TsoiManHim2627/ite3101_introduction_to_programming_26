@@ -12,4 +12,4 @@ def clinic():
 
 
 clinic()
-print()
+print(clinic)
