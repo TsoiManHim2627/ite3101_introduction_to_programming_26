@@ -7,10 +7,11 @@ bool_one = 3 < 5  # We already did this one for you!
 bool_two = None
 
 # Make me true!
-bool_three0 == None
+bool_three = None
 
 # Make me false!
-bool_four != None
+bool_four = None
 
 # Make me true!
-bool_five == None
+bool_five = None
+
