@@ -3,6 +3,6 @@ def hotel_cost(nights: int) -> int:
 def plane_ride_cost(city):
     print(plane_ride_cost)
     return "Charlotte": 183
-            "Tampa": 220
+"Tampa": 220
 "Pittsburgh": 222
 "Los Angeles": 475
