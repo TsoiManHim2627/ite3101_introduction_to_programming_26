@@ -5,4 +5,4 @@ def fizz_count(x:list[str]):
         if i == "fizz":
             count +=1
             return count
-        fizz_count[]
+        fizz_count=["fizz"]
