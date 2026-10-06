@@ -1,2 +1,2 @@
 # Write your function below!
-def fizz_count(x:lis)
+def fizz_count(x:list)
