@@ -10,4 +10,5 @@ stock = {
     "orange": 32,
     "pear": 15,
 }
-for i in pri
+for i in prices:
+    print("")
