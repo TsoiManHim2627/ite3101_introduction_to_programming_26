@@ -11,6 +11,6 @@ stock = {
     "pear": 15,
 }
 for i in prices:
-    print()
+    print("%s")
     print ("prices:%s"%prices[i])
     print ("stock:%s"%stock[i])
