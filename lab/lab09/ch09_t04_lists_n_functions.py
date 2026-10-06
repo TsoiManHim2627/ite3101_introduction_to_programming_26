@@ -6,5 +6,5 @@ def fizz_count(x:list[str]):
             count +=1
             return count
         fizz=["fizz","cat","fizz"]
-        count = fizz_count(fizz_count)
+        count = fizz_count(fizz)
             print(count)
