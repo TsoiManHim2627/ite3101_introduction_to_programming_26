@@ -3,6 +3,6 @@ def fizz_count(x:list[str]):
     count = 0
     for i in x:
         if i == "fizz":
-            count = count +1
-            r
+            count +=1
+            return count 
             print(i)
