@@ -12,5 +12,5 @@ stock = {
 }
 for i in prices:
     print(prices)
-    print ("prices:%s"prices[i])
-    print ("stock:%s"stock[i])
+    print ("prices:%s"%prices[i])
+    print ("stock:%s"%stock[i])
