@@ -4,6 +4,6 @@ def fizz_count(x:list[str]):
     for i in x:
         if i == "fizz":
             count += 1
-        return count
+    return count
        
 print(fizz_count=(["fizz","cat","fizz"]))
