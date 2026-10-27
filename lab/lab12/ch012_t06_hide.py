@@ -16,5 +16,5 @@ def random_row(board_in:list[list]):
     return (randint(0, len(board_in)-1))
 def random_col(board_in:list[list]):
     return (randint(0, len(board_in)-1))
-random_row=randint(0,1)
+row=randint(0,1)
 random_col=randint(0,1)
