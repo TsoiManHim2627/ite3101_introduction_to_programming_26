@@ -1,5 +1,5 @@
 def is_even (x):
     if x == "even":
-return True
-    else
-return False
+    return True
+    elif x != "even":
+    return False
