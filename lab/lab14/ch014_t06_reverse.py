@@ -1,1 +1,2 @@
-def reverse 
+def reverse (text:str):
+    
