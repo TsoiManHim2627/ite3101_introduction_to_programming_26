@@ -1,2 +1,3 @@
 def is_int (x:float):
-    if x 
+    if x == int(x):
+        
