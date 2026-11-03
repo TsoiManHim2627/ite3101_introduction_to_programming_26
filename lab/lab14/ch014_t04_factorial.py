@@ -1,2 +1,3 @@
 def factorial (x:int):
-    factorial
+    factorial= 0
+        
