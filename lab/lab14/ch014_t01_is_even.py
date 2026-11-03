@@ -1,4 +1,5 @@
 
-    x = []
-    for x in range[0,9]:
+x = []
+for x in range[0,9]:
+    def 
             
