@@ -1,1 +1,1 @@
-def is_even (x:)
+def is_even (x:list[str:list])
