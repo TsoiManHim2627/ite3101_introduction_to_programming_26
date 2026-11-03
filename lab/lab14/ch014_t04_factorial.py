@@ -1,3 +1,3 @@
 def factorial (x:int):
     factor = 0
-        if 
+        for n in range(x)
