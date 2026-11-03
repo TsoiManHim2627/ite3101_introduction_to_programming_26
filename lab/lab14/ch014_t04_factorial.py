@@ -1,4 +1,5 @@
 def factorial (x:int):
     factor = 0
         for n in str(x):
-         factor * 
+         factor * int(x)
+    return factorial
