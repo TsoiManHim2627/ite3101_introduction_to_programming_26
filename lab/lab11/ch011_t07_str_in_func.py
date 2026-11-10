@@ -1,6 +1,5 @@
 n = "Hello"
 # Your function here!
 def string_function(s:str)->str:
-    s = "world"
-    return n+s
+    return s+ world
 print(string_function(n))
