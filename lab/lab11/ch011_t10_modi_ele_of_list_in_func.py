@@ -7,4 +7,5 @@ def list_function(x: List[int]) -> int:
 
 
 n = [3, 5, 7]
+double_first(n)
 print(list_function(n))
