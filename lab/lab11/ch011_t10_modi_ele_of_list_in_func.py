@@ -1,7 +1,7 @@
 from typing import List
 
 
-def list_function(x: int) -> int:
+def list_function(x: list[int) -> int:
     return n[1]+3
 
 
