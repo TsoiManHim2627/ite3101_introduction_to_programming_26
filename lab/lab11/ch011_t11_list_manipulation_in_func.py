@@ -1,6 +1,6 @@
 n = [3, 5, 7]
 # Add your function here
 def list_extender(lst:List[int])->List[int]:
-    lst.append9
+    lst.append(9)
     return lst
 print(list_extender(n))
