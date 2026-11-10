@@ -4,4 +4,4 @@ n = 13
 def add_function(x:int)->int:
 def add_function(y:int)->int:   
     x+y = add_function
-# print(add_function(m, n))
+print(add_function(m, n))
