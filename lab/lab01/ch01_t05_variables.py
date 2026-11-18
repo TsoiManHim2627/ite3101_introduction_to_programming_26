@@ -1,1 +1,1 @@
-todays_date = time()
+todays_date = 
