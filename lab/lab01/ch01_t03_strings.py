@@ -1,1 +1,1 @@
-print("Hello"+"a good string")
+print("Hello"+"tsoi_man_him")
